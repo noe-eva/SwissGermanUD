@@ -9,4 +9,4 @@ The provided resources consist of 100 Swiss German sentences, manually annotated
 
 ## Publications
 
-Noëmi Aepli and Simon Clematide, _Proceedings of the 3rd Swiss Text Analytics Conference - [SwissText 2018](https://www.swisstext.org/)_ [PDF](http://ceur-ws.org/Vol-2226/paper1.pdf)
+Noëmi Aepli and Simon Clematide, _Proceedings of the 3rd Swiss Text Analytics Conference - [SwissText 2018](https://www.swisstext.org/)_ ([PDF](http://ceur-ws.org/Vol-2226/paper1.pdf))
