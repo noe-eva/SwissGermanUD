@@ -11,4 +11,4 @@ The provided resources consist of 100 Swiss German sentences, manually annotated
 
 Noëmi Aepli & Simon Clematide, _Parsing Approaches for Swiss German_, in Proceedings of [SwissText 2018](https://www.swisstext.org/), 13.6.2018. ([PDF](http://ceur-ws.org/Vol-2226/paper1.pdf))
 
-Noëmi Aepli & Simon Clematide, _Parsing Approaches for Swiss German_, Master's thesis, 10.1.2018. [PDF](http://www.cl.uzh.ch/dam/jcr:cdad4255-ddd4-4071-a706-491e75085339/aepli_noemi_1990.pdf)
+Noëmi Aepli & Simon Clematide, _Parsing Approaches for Swiss German_, Master's thesis, 10.1.2018. ([PDF](http://www.cl.uzh.ch/dam/jcr:cdad4255-ddd4-4071-a706-491e75085339/aepli_noemi_1990.pdf))
