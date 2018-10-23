@@ -4,7 +4,7 @@ A collection of links to resources and projects involving Swiss German.
 
 ## Natural Language Processing for Swiss German
 
-- [Universal Dependency Parsing for Swiss German](https://noe-eva.github.io/SwissGermanUD/): Master's Thesis project
+- [NOAH's Corpus: Part-of-Speech Tagging for Swiss German](https://noe-eva.github.io/NOAH-Corpus/)
 - [ArchiMob Corpus](http://www.spur.uzh.ch/en/departments/korpuslab/ArchiMob.html): a corpus of spoken Swiss German
 - [din dialäkt](https://www.dindialaekt.ch/tour-de-suisse/de): a website in the scope of the SNF project "Agora" 
 - [VarDial](http://ttg.uni-saarland.de/vardial2017/) Workshop and Shared Task about dialects and dialect identification
