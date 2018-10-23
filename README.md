@@ -6,9 +6,4 @@ The provided resources consist of 100 Swiss German sentences, manually annotated
 
 [NOAH's Corpus of Swiss German Dialects](https://noe-eva.github.io/NOAH-Corpus/) was used as a resource for the Swiss German part-of-speech tagging process - a process preliminary to parsing.
 
-
-## Publications
-
-Noëmi Aepli and Simon Clematide, _Proceedings of the 3rd Swiss Text Analytics Conference - [SwissText 2018](https://www.swisstext.org/)_ [PDF](http://ceur-ws.org/Vol-2226/paper1.pdf)
-
 ## [Official Website](https://noe-eva.github.io/SwissGermanUD/)
