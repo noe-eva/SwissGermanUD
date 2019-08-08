@@ -1,3 +1,4 @@
+
 1	Offebar	_	ADV	ADV	_	2	advmod	_	_
 2	esch	_	AUX	VAFIN	_	10	cop	_	_
 3	vor	_	ADP	APPR	_	4	case	_	_
@@ -126,7 +127,7 @@
 
 1	Er	_	PRON	PPER	_	2	nsubj	_	_
 2	lèènet	_	VERB	VVFIN	_	0	root	_	_
-3	use	_	PART	PTKVZ	_	2	compund:prt	_	_
+3	use	_	PART	PTKVZ	_	2	compound:prt	_	_
 4	,	_	PUNCT	$,	_	9	punct	_	_
 5	mag	_	VERB	VMFIN	_	9	aux	_	_
 6	aber	_	CCONJ	KON	_	9	cc	_	_
@@ -1541,4 +1542,3 @@
 7	nümm	_	PART	PTKNEG	_	8	advmod	_	_
 8	lauere	_	VERB	VVINF	_	0	root	_	_
 9	.	_	PUNCT	$.	_	8	punct	_	_
-
