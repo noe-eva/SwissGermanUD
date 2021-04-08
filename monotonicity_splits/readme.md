@@ -1,1 +1,1 @@
-These are the data splits for the "Dialect Normalization" experiments described in the paper "On Biasing Transformer Attention Towards Monotonicity": https://github.com/ZurichNLP/monotonicity_loss
+This folder contains the data splits used for the _Dialect Normalization_ experiments described in the paper _On Biasing Transformer Attention Towards Monotonicity_: https://github.com/ZurichNLP/monotonicity_loss.
