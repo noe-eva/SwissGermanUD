@@ -6,6 +6,6 @@ The provided resources consist of 100 Swiss German sentences, manually annotated
 
 [NOAH's Corpus of Swiss German Dialects](https://noe-eva.github.io/NOAH-Corpus/) was used as a resource for the Swiss German part-of-speech tagging process - a process preliminary to parsing.
 
-The folder [monotonicity_splits]() contains the splits used for the _Dialect Normalization_ experiments described in the paper _On Biasing Transformer Attention Towards Monotonicity_: [Github Repo](https://github.com/ZurichNLP/monotonicity_loss)
+The folder [monotonicity_splits]() contains the splits used for the _Dialect Normalization_ experiments described in the paper [_On Biasing Transformer Attention Towards Monotonicity](https://github.com/ZurichNLP/monotonicity_loss)
 
 ## [Official Website](https://noe-eva.github.io/SwissGermanUD/)
